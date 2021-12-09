@@ -5,17 +5,7 @@
 /lib
 **/node_modules
 /packages/
-/webapp
-/.npmrc
 /*.log
-package-lock.json
 .DS_Store
-electron/dist
-electron/pub
 **/.idea
-/config.json
-/config.json.*
-/config.local*.json
-/src/component-index.js
 /.tmp
-/webpack-stats.json
